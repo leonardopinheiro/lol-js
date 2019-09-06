@@ -1,0 +1,16 @@
+{
+  "name": "lol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "davinoones.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "datejs": "^1.0.0-rc3",
+    "node-fetch": "^2.6.0",
+    "seconds-converter": "^1.3.0"
+  }
+}
